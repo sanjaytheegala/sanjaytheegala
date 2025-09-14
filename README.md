@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/Sanjay Theegala" target="[_blank](https://www.linkedin.com/in/sanjay-theegala-613a9a295/)">
+  <a href="https://linkedin.com/in/Sanjay Theegala" target="https://www.linkedin.com/in/sanjay-theegala-613a9a295">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay-linkedin" height="30" width="40" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
