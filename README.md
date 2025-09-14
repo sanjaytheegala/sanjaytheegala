@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&bg_color=138808&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Top Languages" width="450" />
 </p>
 
-</div>
+</div><br><br>
 
 
 
@@ -23,7 +23,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sanjaytheegala&theme=dracula" alt="trophies" />
   </a>
-</p>
+</p><br><br>
 
 
 
