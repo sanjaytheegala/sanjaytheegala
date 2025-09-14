@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanjaytheegala&theme=radical)
-
 <h3 align="center">Hi there, I'm Sanjay Theegala! 👋</h3>
 
 <p align="center">
