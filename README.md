@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanjaytheegala&theme=radical)
+
+<h3 align="center">Hi there, I'm Sanjay Theegala! 👋</h3>
+
+<p align="center">
+  Here are some stats about my GitHub activity:
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaytheegala&show_icons=true&theme=dracula&count_private=true" alt="Sanjay Theegala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&theme=dracula" alt="GitHub Streak" />
+</p>
