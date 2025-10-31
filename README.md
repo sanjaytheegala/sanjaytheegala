@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjay-theegala-613a9a295/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay theegala" height="30" width="40" />
-  </a><br>
+  </a><p>LinkedIn</p><br>
   <a href="https://x.com/SanjayTheegala" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaytheegala" height="30" width="40" />
   </a><br>
