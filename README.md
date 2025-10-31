@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <font color="blue">Sanjay Theegala</font></h1>
+<h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1>
 <h3 align="center">A passionate web developer from Hyderabad, Telangana</h3>
 
 <p align="center"> 
@@ -6,19 +6,20 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjay-theegala-613a9a295/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay theegala" height="30" width="40" />
   </a>
-  
+&nbsp;
   <a href="https://x.com/SanjayTheegala" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaytheegala" height="30" width="40" />
   </a>
-  
+&nbsp;
   <a href="https://www.facebook.com/sanjay.theegala" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjay.theegala" height="30" width="40" />
   </a>
+&nbsp;
+  <a href="https://instagram.com/your-username" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-username" height="30" width="40" /> </a>
 </p>
 
 ---
@@ -35,6 +36,23 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&bg_color=138808&title_color=ffffff&text_color=ffffff&border_color=ffffff" alt="Top Languages" width="450" />
   </p>
 </div>
+
+
+
+
+<h3 align="center">GitHub Streaks & Stats</h3>
+<div align="center">
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaytheegala&background=FF9933&title_color=000000&text_color=000000&icon_color=000000&ring=000000&fire=000000&border=000000&cache_seconds=7200" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjaytheegala&show_icons=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&cache_seconds=7200" alt="Sanjay Theegala's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&bg_color=138808&title_color=ffffff&text_color=ffffff&border_color=ffffff&cache_seconds=7200" alt="Top Languages" width="450" />
+  </p>
+</div>
+
 
 ---
 
@@ -101,5 +119,4 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-
 </p>
