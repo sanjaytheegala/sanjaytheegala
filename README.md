@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Hyderabad, Telangana</h3>
 
 <p align="center"> 
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=VIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -77,10 +77,7 @@
   </a>
 </p>
 
-
-
-
-
+---
 
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
