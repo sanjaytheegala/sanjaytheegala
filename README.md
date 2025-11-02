@@ -41,6 +41,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=pie&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" alt="Top Languages Pie Chart" width="450" />
 </div>
+<div align="center">
+  <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt="Languages Pie Chart" width="450">
+</div>
 
 
 <div align="right">
