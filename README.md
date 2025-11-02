@@ -1,15 +1,13 @@
 <p align="left"> 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
+</p><h1></h1>
 
 <p align="center">
-<div style= "border-radius: 25px;">
   <img src= "https://github.com/sanjaytheegala/sanjaytheegala/blob/main/CoverPage.png" />
-</div>
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1> -->
-<h3 align="center">A passionate web developer from Hyderabad, Telangana</h3>
-
+<h2 align="center"><i>A passionate web developer from Hyderabad, Telangana</i></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +28,7 @@
 
 ---
 
-<h3 align="center">GitHub Streaks & Stats</h3>
+<h3 align="center">🔥GitHub Streaks & Stats🔥</h3>
 <div align="left">
   <p>
     <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&background=FF9933&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&title_color=000000&dates=000000" alt="GitHub Streak" />
@@ -83,7 +81,7 @@
   </a>
 </p>
 
----
+<h1></h1>
 
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
