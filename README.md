@@ -2,11 +2,12 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
 
 <p align="center">
-  <img src= "
-    />
+<div style= "border-radius: 25px;">
+  <img src= "https://github.com/sanjaytheegala/sanjaytheegala/blob/main/CoverPage.png" />
+</div>
 </p>
-</p>
-<h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1>
+
+<!-- <h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1> -->
 <h3 align="center">A passionate web developer from Hyderabad, Telangana</h3>
 
 
