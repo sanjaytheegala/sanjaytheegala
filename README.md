@@ -31,11 +31,11 @@
 <h3 align="center">--- GitHub Streaks & Stats ---</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&background=FF9933&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&title_color=000000&dates=000000" alt="GitHubStreak" />
+  <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&background=FF9933&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&title_color=000000&dates=000000" alt="GitHubStreak" width="490" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000&card_width=490" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaytheegala&show_icons=true&count_private=true&bg_color=138808&title_color=ffffff&text_color=ffffff&border_color=ffffff&cache_seconds=7200" alt="Sanjay Theegala's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaytheegala&show_icons=true&count_private=true&bg_color=138808&title_color=ffffff&text_color=ffffff&border_color=ffffff&cache_seconds=7200&card_width=490" alt="Sanjay Theegala's GitHub Stats" />
 </p>
 
 ---
