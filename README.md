@@ -1,5 +1,7 @@
 <p align="left"> 
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
+
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%230000FF&countColor=%23FFFF00&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
 </p><h1></h1>
 
 <p align="center">
