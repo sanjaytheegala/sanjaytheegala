@@ -3,11 +3,8 @@
 </p><h1></h1>
 
 <p align="center">
-  <img src= "https://github.com/sanjaytheegala/sanjaytheegala/blob/main/CoverPage.png" />
+  <img src="CoverPage.png" alt="Sanjay Theegala Cover Page" />
 </p>
-
-<img src="CoverPage.png" alt="Sanjay Theegala Cover Page" />
-
 
 
 <!-- <h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1> -->
