@@ -6,6 +6,10 @@
   <img src= "https://github.com/sanjaytheegala/sanjaytheegala/blob/main/CoverPage.png" />
 </p>
 
+<img src="CoverPage.png" alt="Sanjay Theegala Cover Page" />
+
+
+
 <!-- <h1 align="center">Hi 👋, I'm <font color="green">Sanjay Theegala</font></h1> -->
 <h2 align="center"><i>A passionate web developer from Hyderabad, Telangana</i></h2>
 
