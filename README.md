@@ -1,7 +1,5 @@
 <p align="left"> 
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23555555&countColor=%23138808&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
-
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%230000FF&countColor=%23FFFF00&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsanjaytheegala&label=PROFILEVIEWS&labelColor=%23FFFF00&countColor=%230000FF&style=flat&logo=docusign" alt="sanjaytheegala profile views" />
 </p><h1></h1>
 
 <p align="center">
@@ -103,3 +101,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaytheegala&layout=compact" />
