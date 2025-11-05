@@ -29,9 +29,10 @@
 ---
 
 <h3 align="center">--- GitHub Streaks & Stats ---</h3>
+
 <div align="left">
   <p>
-    <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&background=FF9933&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&title_color=000000&dates=000000" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sanjaytheegala&background=FF9933&border=000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&title_color=000000&dates=000000 alt="GitHub Streak" />
     
   </p>
 </div>
